@@ -98,37 +98,53 @@ https://cv.nmhealth.org/covid-vaccine/
 May be unavailable. See appointment data, perhaps
 https://am-i-eligible.covid19vaccine.health.ny.gov/
 ### North Carolina
-
+List of Sites, but no address.
+https://covid19.ncdhhs.gov/findyourspot
 ### North Dakota
-
+Not Sites, but number of vaccinators enrolled by county.
+https://www.health.nd.gov/covid19vaccine/dashboard
 ### Ohio
-
+https://vaccine.coronavirus.ohio.gov/
 ### Oklahoma
-
+May be unavailable. Latest information instead.
+https://oklahoma.gov/covid19/vaccine-information.html
 ### Oregon
 https://www.oregon.gov/oha/covid19/Pages/vaccine-information-by-county.aspx
 ### Pennsylvania
-
+https://www.health.pa.gov/topics/disease/coronavirus/Vaccine/Pages/Vaccine.aspx
 ### Rhode Island
-
+May be unavailable. Latest information instead.
+https://covid.ri.gov/vaccination
+Does indicate sites include hospitals, pharmacies, onsite in prisons, onsite in ltcf.
 ### South Carolina
-
+https://sc-dhec.maps.arcgis.com/apps/webappviewer/index.html?id=58f5a4c3bc864fd0a81f5d9fb3bc17a7
 ### South Dakota
-
+Not Sites, but single vaccinator enrolled by county.
+https://doh.sd.gov/Covid/Vaccine/ProviderMap/default.aspx
 ### Tennessee
-
+May be unavailable. Latest information instead.
+https://www.tn.gov/health/cedep/ncov/covid-19-vaccine-information.html
 ### Texas
 https://tdem.maps.arcgis.com/apps/webappviewer/index.html?id=3700a84845c5470cb0dc3ddace5c376b
 ### Utah
-
+May be unavailable. Latest information instead.
+https://coronavirus.utah.gov/vaccine-distribution/#lhd
 ### Vermont
-
+A static map, but no specific data on sites.
+https://www.healthvermont.gov/covid-19/vaccine/getting-covid-19-vaccine
 ### Virginia
-
+May be unavailable. Latest information instead.
+https://www.vdh.virginia.gov/coronavirus/covid-19-vaccine-summary/
+Phases by county:
+https://www.vdh.virginia.gov/covid-19-vaccine/phase-by-health-district/
 ### Washington
 https://www.doh.wa.gov/YouandYourFamily/Immunization/VaccineLocations
 ### West Virginia
-
+May be unavailable. Latest information instead. "More Coming Soon"
+https://dhhr.wv.gov/COVID-19/Pages/Vaccine.aspx
 ### Wisconsin
-
+May be unavailable. Latest information instead. Distribution data
+https://www.dhs.wisconsin.gov/covid-19/vaccine-data.htm
 ### Wyoming
+May be unavailable. Latest information instead.
+https://health.wyo.gov/publichealth/immunization/wyoming-covid-19-vaccine-information/
