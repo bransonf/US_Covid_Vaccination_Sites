@@ -1,7 +1,9 @@
 # US_Covid_Vaccination_Sites
 An Attempt to Aggregate Vaccination Sites for All 50 States (where available)
 
-Note: https://vaccinefinder.org/ will also be aggregating these data as they become more available.
+*As of 1/23 have only found data for 19/50 states.*
+
+> Note: https://vaccinefinder.org/ will also be aggregating these data as they become more available.
 
 ## Links to Websites Containing Data
 
