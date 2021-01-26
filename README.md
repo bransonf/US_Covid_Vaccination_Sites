@@ -1,7 +1,7 @@
 # US_Covid_Vaccination_Sites
 An Attempt to Aggregate Vaccination Sites for All 50 States (where available)
 
-*As of 1/23 have only found data for 19/50 states.*
+*As of 1/25 have only found data for 20/50 states.*
 
 > Note: https://vaccinefinder.org/ will also be aggregating these data as they become more available.
 
@@ -27,6 +27,8 @@ May be unavailable. Latest information instead.
 https://myhealthycommunity.dhss.delaware.gov/locations/state/vaccine-tracker#vaccine_tracker)
 ### Florida
 https://floridahealthcovid19.gov/testing-sites/?display_map=1
+### Georgia
+https://dph.georgia.gov/locations/covid-vaccination-site
 ### Hawaii
 May be unavailable. Latest information instead.
 https://hawaiicovid19.com/vaccination-registration/)
