@@ -1,7 +1,7 @@
 # US_Covid_Vaccination_Sites
 An Attempt to Aggregate Vaccination Sites for All 50 States (where available)
 
-*As of 1/25 have only found data for 20/50 states.*
+*As of 2/2 have only found data for 22/50 states.*
 
 > Note: https://vaccinefinder.org/ will also be aggregating these data as they become more available.
 
@@ -44,8 +44,7 @@ https://experience.arcgis.com/experience/24159814f1dd4f69b6c22e7e87bca65b
 May be unavailable. Latest information instead.
 https://idph.iowa.gov/Emerging-Health-Issues/Novel-Coronavirus/Vaccine/Information-for-the-Public
 ### Kansas
-"Still working on a list of sites, but plan to realease soon"
-https://www.kcur.org/news/2021-01-22/heres-the-latest-on-where-and-how-to-get-a-covid-vaccine-in-kansas
+https://www.kansasvaccine.gov/160/Find-My-Vaccine
 ### Kentucky
 May be unavailable. Latest information instead.
 https://govstatus.egov.com/ky-covid-vaccine
