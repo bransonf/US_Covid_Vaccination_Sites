@@ -1,7 +1,7 @@
 # US_Covid_Vaccination_Sites
 An Attempt to Aggregate Vaccination Sites for All 50 States (where available)
 
-*As of 2/2 have only found data for 22/50 states.*
+*As of 2/5 have only found data for 24/50 states.*
 
 > Note: https://vaccinefinder.org/ will also be aggregating these data as they become more available.
 
@@ -20,11 +20,10 @@ https://www.vaccinateca.com/
 ### Colorado
 https://covid19.colorado.gov/for-coloradans/vaccine/where-can-i-get-vaccinated
 ### Connecticut
-May be unavailable. Latest information instead.
-https://portal.ct.gov/Coronavirus/covid-19%20vaccinations)
+https://www.211ct.org/search?page=1&location=Cromwell%2C%20CT&taxonomy_code=11172&service_area=cromwell
 ### Delaware 
 May be unavailable. Latest information instead.
-https://myhealthycommunity.dhss.delaware.gov/locations/state/vaccine-tracker#vaccine_tracker)
+https://myhealthycommunity.dhss.delaware.gov/locations/state/vaccine-tracker#vaccine_tracker
 ### Florida
 https://floridahealthcovid19.gov/testing-sites/?display_map=1
 ### Georgia
@@ -63,20 +62,7 @@ https://www.mass.gov/info-details/covid-19-vaccination-program
 May be unavailable. Latest information instead.
 https://www.michigan.gov/coronavirus/0,9753,7-406-98178_103214_104822---,00.html
 ### Minnesota
-Types of site available. As of 1/22/2021:
-| Type | Number |
-| --- | --- |
-|Community vaccinator	| 3 |
-|Hospital	| 145 |
-|Local public health |	75 |
-|Other |	9 |
-|Pharmacy	| 135 |
-|Primary care	| 25 |
-|Specialty |	9 |
-|Tribal health sites | 7 |
-https://mn.gov/covid19/vaccine/find-vaccine/index.jsp
-https://mn.gov/covid19/vaccine/data/index.jsp
-https://mn.gov/covid19/assets/Provider%20sites%20receiving%20vaccines_tcm1148-462878.csv
+https://mn.gov/covid19/vaccine/find-vaccine/locations/index.jsp
 ### Mississippi
 https://msdh.ms.gov/msdhsite/_static/14,22816,420,976.html#sites
 ### Missouri
