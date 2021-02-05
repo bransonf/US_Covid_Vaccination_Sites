@@ -1,7 +1,7 @@
 # US_Covid_Vaccination_Sites
 An Attempt to Aggregate Vaccination Sites for All 50 States (where available)
 
-*As of 2/5 have only found data for 24/50 states.*
+*As of 2/5 have only found data for 29/50 states.*
 
 > Note: https://vaccinefinder.org/ will also be aggregating these data as they become more available.
 
@@ -35,13 +35,11 @@ https://hawaiicovid19.com/vaccination-registration/)
 May be unavailable. Latest information instead.
 https://public.tableau.com/profile/idaho.division.of.public.health#!/vizhome/COVID-19VaccineDataDashboard/Residence)
 ### Illinois
-May be unavailable. Latest information instead.
-https://www.nbcchicago.com/news/coronavirus/covid-vaccination-sites-open-in-cook-county-to-aid-completion-of-phase-1a/2418863/ https://data.cityofchicago.org/Health-Human-Services/COVID-19-Testing-Sites-Map/j2wj-wjrp
+https://coronavirus.illinois.gov/s/vaccination-location
 ### Indiana
 https://experience.arcgis.com/experience/24159814f1dd4f69b6c22e7e87bca65b
 ### Iowa
-May be unavailable. Latest information instead.
-https://idph.iowa.gov/Emerging-Health-Issues/Novel-Coronavirus/Vaccine/Information-for-the-Public
+https://coronavirus.iowa.gov/pages/vaccineinformation#VaccineProviders
 ### Kansas
 https://www.kansasvaccine.gov/160/Find-My-Vaccine
 ### Kentucky
@@ -56,8 +54,7 @@ https://govstatus.egov.com/ky-covid-vaccine
 May be unavailable. Latest information instead.
 https://covidlink.maryland.gov/content/vaccine/#1608736642244-8ae8e9d7-1c75
 ### Massachusetts
-May be unavailable. Latest information instead.
-https://www.mass.gov/info-details/covid-19-vaccination-program
+https://www.mass.gov/info-details/covid-19-vaccination-locations#find-a-location-using-the-zip-code-search-
 ### Michigan
 May be unavailable. Latest information instead.
 https://www.michigan.gov/coronavirus/0,9753,7-406-98178_103214_104822---,00.html
@@ -129,11 +126,9 @@ https://www.vdh.virginia.gov/covid-19-vaccine/phase-by-health-district/
 ### Washington
 https://www.doh.wa.gov/YouandYourFamily/Immunization/VaccineLocations
 ### West Virginia
-May be unavailable. Latest information instead. "More Coming Soon"
-https://dhhr.wv.gov/COVID-19/Pages/Vaccine.aspx
+https://dhhr.wv.gov/News/2021/Pages/COVID-19-Vaccination-Clinics-in-all-55-Counties-for-Residents-Age-65-and-Older-Feb.-3-6.aspx
 ### Wisconsin
 May be unavailable. Latest information instead. Distribution data
 https://www.dhs.wisconsin.gov/covid-19/vaccine-data.htm
 ### Wyoming
-May be unavailable. Latest information instead.
-https://health.wyo.gov/publichealth/immunization/wyoming-covid-19-vaccine-information/
+https://health.wyo.gov/publichealth/immunization/wyoming-covid-19-vaccine-information/county-covid-19-vaccine-information/
