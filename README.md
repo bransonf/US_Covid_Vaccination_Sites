@@ -1,7 +1,7 @@
 # US_Covid_Vaccination_Sites
 An Attempt to Aggregate Vaccination Sites for All 50 States (where available)
 
-*As of 2/5 have only found data for 29/50 states.*
+*As of 2/8 have only found data for 30/50 states.*
 
 > Note: https://vaccinefinder.org/ will also be aggregating these data as they become more available.
 
@@ -87,8 +87,7 @@ https://am-i-eligible.covid19vaccine.health.ny.gov/
 List of Sites, but no address.
 https://covid19.ncdhhs.gov/findyourspot
 ### North Dakota
-Not Sites, but number of vaccinators enrolled by county.
-https://www.health.nd.gov/covid19vaccine/dashboard
+https://www.health.nd.gov/covidvaccinelocator
 ### Ohio
 https://vaccine.coronavirus.ohio.gov/
 ### Oklahoma
