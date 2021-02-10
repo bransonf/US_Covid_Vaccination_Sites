@@ -1,7 +1,7 @@
 # US_Covid_Vaccination_Sites
 An Attempt to Aggregate Vaccination Sites for All 50 States (where available)
 
-*As of 2/8 have only found data for 30/50 states.*
+*As of 2/10 have only found complete data for 32/50 states.*
 
 > Note: https://vaccinefinder.org/ will also be aggregating these data as they become more available.
 
@@ -16,6 +16,7 @@ https://www.azdhs.gov/preparedness/epidemiology-disease-control/infectious-disea
 ### Arkansas
 https://www.healthy.arkansas.gov/programs-services/topics/covid-19-map-of-1-a-pharmacy-locations
 ### California
+Community Run Effort:
 https://www.vaccinateca.com/
 ### Colorado
 https://covid19.colorado.gov/for-coloradans/vaccine/where-can-i-get-vaccinated
@@ -24,6 +25,8 @@ https://www.211ct.org/search?page=1&location=Cromwell%2C%20CT&taxonomy_code=1117
 ### Delaware 
 May be unavailable. Latest information instead.
 https://myhealthycommunity.dhss.delaware.gov/locations/state/vaccine-tracker#vaccine_tracker
+Some regions have sites available.
+https://phd3.idaho.gov/covid19/region-3-covid-19-vaccination-sites/
 ### Florida
 https://floridahealthcovid19.gov/testing-sites/?display_map=1
 ### Georgia
@@ -43,8 +46,7 @@ https://coronavirus.iowa.gov/pages/vaccineinformation#VaccineProviders
 ### Kansas
 https://www.kansasvaccine.gov/160/Find-My-Vaccine
 ### Kentucky
-May be unavailable. Latest information instead.
-https://govstatus.egov.com/ky-covid-vaccine
+https://govstatus.egov.com/kentucky-vaccine-map
 ### Louisiana
 https://ldh.la.gov/assets/docs/covid/LACOVIDVACCINE-LOCATIONS.pdf
 ### Maine
@@ -83,9 +85,11 @@ https://cv.nmhealth.org/covid-vaccine/
 ### New York
 May be unavailable. See appointment data, perhaps
 https://am-i-eligible.covid19vaccine.health.ny.gov/
+Community Efforts:
+https://nycvaccinelist.com/
+https://www.turbovax.info/
 ### North Carolina
-List of Sites, but no address.
-https://covid19.ncdhhs.gov/findyourspot
+https://myspot.nc.gov/map-view
 ### North Dakota
 https://www.health.nd.gov/covidvaccinelocator
 ### Ohio
@@ -106,6 +110,8 @@ https://sc-dhec.maps.arcgis.com/apps/webappviewer/index.html?id=58f5a4c3bc864fd0
 ### South Dakota
 Not Sites, but single vaccinator enrolled by county.
 https://doh.sd.gov/Covid/Vaccine/ProviderMap/default.aspx
+Some pharmacy sites:
+https://doh.sd.gov/documents/COVID19/Vaccine/Vax_PharmacyList.pdf
 ### Tennessee
 May be unavailable. Latest information instead.
 https://www.tn.gov/health/cedep/ncov/covid-19-vaccine-information.html
