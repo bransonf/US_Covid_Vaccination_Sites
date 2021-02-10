@@ -1,7 +1,7 @@
 # US_Covid_Vaccination_Sites
 An Attempt to Aggregate Vaccination Sites for All 50 States (where available)
 
-*As of 2/10 have only found complete data for 32/50 states.*
+*As of 2/10 have only found complete data for 34/50 states.*
 
 > Note: https://vaccinefinder.org/ will also be aggregating these data as they become more available.
 
@@ -53,8 +53,7 @@ https://ldh.la.gov/assets/docs/covid/LACOVIDVACCINE-LOCATIONS.pdf
 May be unavailable. Latest information instead.
 https://govstatus.egov.com/ky-covid-vaccine
 ### Maryland      
-May be unavailable. Latest information instead.
-https://covidlink.maryland.gov/content/vaccine/#1608736642244-8ae8e9d7-1c75
+https://maryland.maps.arcgis.com/apps/instant/nearby/index.html?appid=0dbfb100676346ed9758be319ab3f40c&find=
 ### Massachusetts
 https://www.mass.gov/info-details/covid-19-vaccination-locations#find-a-location-using-the-zip-code-search-
 ### Michigan
@@ -68,7 +67,8 @@ https://msdh.ms.gov/msdhsite/_static/14,22816,420,976.html#sites
 https://covidvaccine.mo.gov/map/
 ### Montana
 May be unavailable. Latest information instead.
-https://dphhs.mt.gov/publichealth/cdepi/diseases/coronavirusvaccine#9925611149-where-can-i-get-vaccinated
+~~https://dphhs.mt.gov/publichealth/cdepi/diseases/coronavirusvaccine#9925611149-where-can-i-get-vaccinated~~
+https://dphhs.mt.gov/publichealth/cdepi/diseases/coronavirusmt/covid19vaccineavailability
 ### Nebraska
 May be unavailable. Latest information instead.
 http://dhhs.ne.gov/Pages/COVID-19-Vaccine-Information.aspx
@@ -80,8 +80,9 @@ https://www.vaccines.nh.gov/covid-19-vaccine-schedule-nh-residents
 ### New Jersey
 https://covid19.nj.gov/pages/covid-19-vaccine-locations-for-eligible-recipients
 ### New Mexico
-May be unavailable. Latest information instead.
-https://cv.nmhealth.org/covid-vaccine/
+https://cvvaccine.nmhealth.org/public-dashboard.html
+Locations removed from dashboard but still available via API:
+https://cvvaccine.nmhealth.org/api/GetDashboardLocations
 ### New York
 May be unavailable. See appointment data, perhaps
 https://am-i-eligible.covid19vaccine.health.ny.gov/
